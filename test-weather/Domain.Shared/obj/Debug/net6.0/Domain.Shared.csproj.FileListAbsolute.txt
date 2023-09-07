@@ -1,0 +1,12 @@
+D:\test-weather\Domain.Shared\bin\Debug\net6.0\Domain.Shared.deps.json
+D:\test-weather\Domain.Shared\bin\Debug\net6.0\Domain.Shared.dll
+D:\test-weather\Domain.Shared\bin\Debug\net6.0\Domain.Shared.pdb
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.csproj.AssemblyReference.cache
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.AssemblyInfoInputs.cache
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.AssemblyInfo.cs
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.csproj.CoreCompileInputs.cache
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.dll
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\refint\Domain.Shared.dll
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\Domain.Shared.pdb
+D:\test-weather\Domain.Shared\obj\Debug\net6.0\ref\Domain.Shared.dll

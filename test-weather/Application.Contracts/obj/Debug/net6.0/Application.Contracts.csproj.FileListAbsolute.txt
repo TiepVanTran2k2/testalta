@@ -1,0 +1,17 @@
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Application.Contracts.deps.json
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Application.Contracts.dll
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Application.Contracts.pdb
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Domain.Shared.dll
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Domain.Shared.pdb
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.csproj.AssemblyReference.cache
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.AssemblyInfoInputs.cache
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.AssemblyInfo.cs
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.csproj.CoreCompileInputs.cache
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.csproj.CopyComplete
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.dll
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\refint\Application.Contracts.dll
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\Application.Contracts.pdb
+D:\test-weather\Application.Contracts\obj\Debug\net6.0\ref\Application.Contracts.dll
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Domain.dll
+D:\test-weather\Application.Contracts\bin\Debug\net6.0\Domain.pdb
